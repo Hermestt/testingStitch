@@ -1,10 +1,11 @@
 # copy and paste here from Decapbridge
 # Use DecapBridge auth (required)
+# Use DecapBridge auth (required)
 backend:
     name: git-gateway
-    repo: BuckyBuck135/Intermediate-Website-Kit-SASS
+    repo: Hermestt/testingStitch
     branch: main
-    identity_url: https://auth.decapbridge.com/sites/5c0227b5-f331-433a-bd30-f3ce7d78464c
+    identity_url: https://auth.decapbridge.com/sites/b9c4da2e-5f02-40c3-966f-241deeeb63c7
     gateway_url: https://gateway.decapbridge.com
 
     # Quickly see who did what (optional)
@@ -20,7 +21,7 @@ backend:
 logo_url: https://decapbridge.com/decapcms-with-bridge.svg
 
 # Add site links in DecapCMS (optional)
-site_url: https://testing-sass-kit.netlify.app
+site_url: https://testingthestich.netlify.app
 
 # Keep this to allow you to edit the cms locally
 local_backend: true
